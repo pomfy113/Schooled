@@ -6,5 +6,5 @@
     - Counselor - Jackie Chan
     - Student1 - Simon Pegg
     - Student2 - Nick Frost
-    - Bully1 - Bruce Lee
+    - Bully1 - John Cena
     - Bully2 - Steve Austin
